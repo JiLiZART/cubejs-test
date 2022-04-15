@@ -1,1 +1,1 @@
-s={}; // fmodule.exports={}; // from test 0.9316580490648099
+module.exports={}; // from test 0.7251064350112215
